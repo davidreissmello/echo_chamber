@@ -2,6 +2,7 @@
 Echo Chamber Twitter Research
 
 Data Dictionary for echo_computationx.csv   
+
 candidate: twitter ID of candidate  
 followers: twitter ID for follower of candidate  
 f_of_f_candidate_followers: number of follower X's followers who follow candidate Y  

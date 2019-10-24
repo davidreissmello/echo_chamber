@@ -8,7 +8,6 @@ followers: twitter ID for follower of candidate
 f_of_f_candidate_followers: number of follower X's followers who follow candidate Y  
 n_f_of_f: number of follower X's followers  
 ratio: f_of_f_candidate_followers / n_f_of_f   
-       = number of follower X's followers who follow candidate Y / number of follower X's followers    
 n_candidate_followers: number of people who follow candidate   
 ratio_normalized: ratio / n_candidate_followers = ratio / number of people who follow candidate   
 opponent_followers: number of follower X's followers who follow candidate Ys opponent   
